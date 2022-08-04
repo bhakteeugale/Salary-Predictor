@@ -19,8 +19,8 @@ Salary predictor using Machine learning
  
 
 # Data Set Information: 
-Data set used: StackOverflow survey 2021
-Parameters considered while predicting salary: country, educational qualification, years of experience.
+1. Data set used: StackOverflow survey 2021
+2. Parameters considered while predicting salary: country, educational qualification, years of experience.
 
 # Technologies used:
 1. Python libraries - pickle, pandas, matplotlib, sklearn
